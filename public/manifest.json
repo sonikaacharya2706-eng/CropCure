@@ -1,0 +1,16 @@
+{
+  "name": "CropCure",
+  "short_name": "CropCure",
+  "description": "Mobile-first, voice-enabled crop disease diagnostic tool with offline village mode, MobileNetV3 TFLite inference simulation, IndexedDB storage, Google ML Kit OCR packet scanner, and 6-language i18n localization.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1917",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/images/crops/tomato_early_blight.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}

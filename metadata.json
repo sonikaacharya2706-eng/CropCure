@@ -1,5 +1,5 @@
 {
-  "name": "KisanDost - Field Crop Doctor",
+  "name": "CropCure - Field Crop Doctor",
   "description": "Mobile-first, voice-enabled crop disease diagnostic tool for smallholder farmers with offline village mode, guided follow-up questions, cost-vs-loss treatment calculator, and pesticide packet scanner.",
   "requestFramePermissions": [
     "camera",

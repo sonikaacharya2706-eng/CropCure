@@ -75,7 +75,7 @@ export interface TranslationDictionary {
 
 export const UI_STRINGS: Record<SupportedLanguage, TranslationDictionary> = {
   en: {
-    appTitle: 'KisanDost',
+    appTitle: 'CropCure',
     tagline: 'Field Plant Doctor for Small Farmers',
     navDoctor: 'Leaf Doctor',
     navPacket: 'Packet Scanner',
@@ -131,7 +131,7 @@ export const UI_STRINGS: Record<SupportedLanguage, TranslationDictionary> = {
   },
 
   hi: {
-    appTitle: 'किसान दोस्त',
+    appTitle: 'CropCure',
     tagline: 'छोटे किसानों के लिए फसल डॉक्टर',
     navDoctor: 'पत्ती डॉक्टर',
     navPacket: 'दवा पैकेट स्कैनर',
@@ -187,7 +187,7 @@ export const UI_STRINGS: Record<SupportedLanguage, TranslationDictionary> = {
   },
 
   kn: {
-    appTitle: 'ಕಿಸಾನ್ ದೋಸ್ತ್',
+    appTitle: 'CropCure',
     tagline: 'ಸಣ್ಣ ರೈತರಿಗೆ ಬೆಳೆ ವೈದ್ಯ',
     navDoctor: 'ಎಲೆ ವೈದ್ಯ',
     navPacket: 'ಔಷಧಿ ಪ್ಯಾಕೆಟ್ ಸ್ಕ್ಯಾನರ್',
@@ -243,7 +243,7 @@ export const UI_STRINGS: Record<SupportedLanguage, TranslationDictionary> = {
   },
 
   ta: {
-    appTitle: 'கிசான் தோஸ்த்',
+    appTitle: 'CropCure',
     tagline: 'சிறு விவசாயிகளுக்கான பயிர் மருத்துவர்',
     navDoctor: 'இலை மருத்துவர்',
     navPacket: 'மருந்து பாக்கெட் ஸ்கேனர்',
@@ -299,7 +299,7 @@ export const UI_STRINGS: Record<SupportedLanguage, TranslationDictionary> = {
   },
 
   te: {
-    appTitle: 'కిసాన్ దోస్త్',
+    appTitle: 'CropCure',
     tagline: 'చిన్న రైతులకు పంట డాక్టర్',
     navDoctor: 'ఆకు డాక్టర్',
     navPacket: 'పురుగుమందు ప్యాకెట్ స్కానర్',
@@ -355,7 +355,7 @@ export const UI_STRINGS: Record<SupportedLanguage, TranslationDictionary> = {
   },
 
   ml: {
-    appTitle: 'കിസാൻ ദോസ്ത്',
+    appTitle: 'CropCure',
     tagline: 'ചെറുകിട കർഷകർക്കുള്ള വിള ഡോക്ടർ',
     navDoctor: 'ഇല ഡോക്ടർ',
     navPacket: 'കീടനാശിനി പാക്കറ്റ് സ്കാനർ',
