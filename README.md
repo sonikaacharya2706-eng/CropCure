@@ -1,3 +1,5 @@
+PROTOTYPE LINK : https://cropcure-fuzs.onrender.com/
+
 # CropCure
 # 🌾Crop Disease Detection for Small Farmers
 
