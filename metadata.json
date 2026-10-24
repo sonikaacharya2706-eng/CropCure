@@ -1,0 +1,12 @@
+{
+  "name": "KisanDost - Field Crop Doctor",
+  "description": "Mobile-first, voice-enabled crop disease diagnostic tool for smallholder farmers with offline village mode, guided follow-up questions, cost-vs-loss treatment calculator, and pesticide packet scanner.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
